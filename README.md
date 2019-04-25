@@ -36,19 +36,19 @@ Final: [Control Motor](https://www.mathworks.com/videos/hardware-support-package
 4. Simulink: servo motor control live
 5. ~~Matlab: servo motor control live~~
 
-    ![arduino](/img/servo_motor.jpeg)
+    ![arduino](\img\servo_motor.jpeg)
 
 6. Matlab: DC motor control
     1. is it another board?
 
-    ![arduino](/img/arduino.jpeg)
+    ![arduino](\img\arduino.jpeg)
 
     2. speed control board
     3. find the stable source
     
-    ![arduino](/img/power.jpeg)
+    ![arduino](\img\power.jpeg)
 
-    ![arduino](/img/connection.jpeg)
+    ![arduino](\img\connection.jpeg)
 7. Simulink: DC motor control live
 
 other useful videos:
